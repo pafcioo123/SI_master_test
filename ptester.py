@@ -2,6 +2,7 @@ import PriorityQueue
 import Waiter
 import aStar
 import constants
+import info
 
 # import anytree
 # print(constants.REST[2][9])
